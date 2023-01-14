@@ -1,8 +1,8 @@
-# Pokedex1
-<h1 align="center"> Player Music </h1>
+# Pokedex
+<h1 align="center"> Pokedex </h1>
 
 <p align="center">
-Programa exclusivo e gratuito, promovido pela DIO para ensino de tecnologias WEB. <br/>
+Programa exclusivo e gratuito, promovido pela DIO para ensino de tecnologias. <br/>
 <a href="https://www.dio.me/">Estude esse projeto em formato de vídeo clicando aqui.</a>
 </p>
 
@@ -16,7 +16,7 @@ Programa exclusivo e gratuito, promovido pela DIO para ensino de tecnologias WEB
 <br>
 
 <p align="center">
-  <img alt="projeto POkedex" src="Capa.png" width="100%">
+  <img alt="Projeto Pokedex" src="Capa.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
